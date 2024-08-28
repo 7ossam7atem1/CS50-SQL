@@ -1,1 +1,0 @@
-SELECT "english_title" AS "Titles" FROM "views" WHERE "english_title" LIKE "%fuji%" ORDER BY "print_number" DESC;

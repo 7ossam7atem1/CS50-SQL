@@ -1,1 +1,0 @@
-SELECT "title" , "air_date" FROM "episodes" WHERE ("production_code" BETWEEN "%01" AND "%05") OR "topic" LIKE "%fraction%";
