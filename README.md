@@ -1,4 +1,7 @@
 # `CS50`’s Introduction to Databases with SQL
+<div style="text-align: center;">
+    <img src="https://www.pngmart.com/files/23/Harvard-Logo-PNG-Picture.png" alt="Harvard" width="200"/>
+</div>
 
 This repository contains my solutions for the problem sets in the CS50-SQL course offered by [Harvard University](https://cs50.harvard.edu/sql/2023/). The course covers various aspects of SQL and database management. Each week, I've completed the problem sets and uploaded my solutions here.
 
@@ -13,3 +16,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [DESE](/1-Relating/DESE)
   - [x] [Moneyball](/1-Relating/Moneyball)
 
+- [x] **Week 2 : [Designing](https://cs50.harvard.edu/sql/2023/psets/2/)**
+  - [x] [ATL](2-Designing/ATL)
+  - [x] [Happy to Connect](2-Designing/Happy%20to%20Connect)
+  - [x] [Union Square Donuts](2-Designing/Union%20Square%20Donuts)
