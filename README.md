@@ -20,3 +20,8 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [ATL](2-Designing/ATL)
   - [x] [Happy to Connect](2-Designing/Happy%20to%20Connect)
   - [x] [Union Square Donuts](2-Designing/Union%20Square%20Donuts)
+
+- [x] **Week 3 : [Writing](https://cs50.harvard.edu/sql/2023/psets/3/)**
+  - [x] [Don’t Panic!](/3-Writing/Dont%20Panic!)
+  - [x] [Meteorite Cleaning](/3-Writing/Meteorite%20Cleaning)
+
