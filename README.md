@@ -29,3 +29,7 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [Don’t Panic!](/3-Writing/Dont%20Panic!)
   - [x] [Meteorite Cleaning](/3-Writing/Meteorite%20Cleaning)
 
+- [x] **Week 4 : [Viewing](https://cs50.harvard.edu/sql/2023/psets/4/)**
+  - [x] [Census Taker](/4-Viewing/Census%20Taker)
+  - [x] [The Private Eye](/4-Viewing/The%20Private%20Eye)
+  - [x] [Bed and Breakfast](/4-Viewing/Bed%20and%20Breakfast)
